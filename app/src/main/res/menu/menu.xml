@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mnbook"
+        android:title="Thông tin sách">
+    </item>
+    <item
+        android:id="@+id/mnauthor"
+        android:title="Thông tin tác giả">
+    </item>
+    <item
+        android:id="@+id/mnsearch"
+        android:title="Tìm kiếm sách/Tác giả">
+    </item>
+</menu>
